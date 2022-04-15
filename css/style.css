@@ -719,10 +719,10 @@ ul.footer_social li a i:hover {
 .home-section:before {
     -webkit-transform: rotate(-174deg);
    background: #8cc152;
-    background: -webkit-linear-gradient(135deg,#009FE3 0,#009FE3 16%,#009FE3 32%,#6B71FD 52%,#6B71FD 70%,#6B71FD 100%);
-    background: -o-linear-gradient(135deg,#009FE3 0,#009FE3 16%,#009FE3 32%,#6B71FD 52%,#6B71FD 70%,#6B71FD 100%);
-    background: -moz-linear-gradient(135deg,#009FE3 0,#009FE3 16%,#009FE3 32%,#6B71FD 52%,#6B71FD 70%,#6B71FD 100%);
-    background: linear-gradient(135deg,#009FE3 0,#009FE3 16%,#009FE3 32%,#6B71FD 52%,#6B71FD 70%,#6B71FD 100%);
+    background: -webkit-linear-gradient(135deg,#009FE3 0,#009FE3 16%,#009FE3 32%,#4ab9dc 52%,#4ab9dc 70%,#4ab9dc 100%);
+    background: -o-linear-gradient(135deg,#009FE3 0,#009FE3 16%,#009FE3 32%,#4ab9dc 52%,#4ab9dc 70%,#4ab9dc 100%);
+    background: -moz-linear-gradient(135deg,#009FE3 0,#009FE3 16%,#009FE3 32%,#4ab9dc 52%,#4ab9dc 70%,#4ab9dc 100%);
+    background: linear-gradient(135deg,#009FE3 0,#009FE3 16%,#009FE3 32%,#4ab9dc 52%,#4ab9dc 70%,#4ab9dc 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#990fc3", endColorstr="#7db9e8", GradientType=1 );
     border-radius: 750px;
     content: "";
@@ -2529,6 +2529,7 @@ ul.partners-mentions li img:hover {
 	.home-section h1 {
 	    font-size: 38px;
 	    line-height: 44px;
+		font-weight: 400;
 	}
 
 	.sponsors img.sponsor {
